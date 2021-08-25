@@ -1,4 +1,7 @@
 new file
 123
 prueba
+<<<<<<< HEAD
 prueba3
+=======
+>>>>>>> 8151907e1a9f44dacfe1305834553cbb2f6789e5
