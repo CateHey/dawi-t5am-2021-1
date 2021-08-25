@@ -4,7 +4,7 @@
   <artifactId>dawi_sesion04</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>proyecto JPA usando Maven</description>
-  <!-- Le ponemos 1.8 --------------------->
+  <!-- Le ponemos 1.8 -->
   
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
